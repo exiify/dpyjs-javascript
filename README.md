@@ -1,2 +1,2 @@
-# dpyjs-javascript
- Community bot in javascript
+## Please make a pull request to contribute
+### https://discord.gg/cJFeRyJtVt
